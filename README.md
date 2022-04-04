@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SorenJAndersson
 - 👀 I’m interested in XCODE, AI and ML.
 - 🌱 I’m currently learning ML.
-- 💞️ I’m looking to collaborate on - not decided yet
+- 💞️ I’m looking to collaborate on - IOS apps
 - 📫 How to reach me kallby@me.com
 
 <!---
